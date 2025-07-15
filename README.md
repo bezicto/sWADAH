@@ -50,6 +50,9 @@ Developed entirely using **PHP7/8**, **HTML5**, **JavaScript**, and **MariaDB**,
 - Reporting tools for various aspects of system administration and usage
 - Gzip compression for faster loading time
 
+## Installation and Configurations
+Click on the version number in the main repository (e.g., 2022Y), then follow the instructions to install, upgrade, and configure that selected version. PDF guides are available for each task.
+
 ## Contact Us
 For help or more information regarding sWADAH installation, contact:
 
