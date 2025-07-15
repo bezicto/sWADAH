@@ -1,11 +1,15 @@
-## Installation: 
-**Linux:** https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing_sWADAH_docversion_20220815.pdf
+# Installation
 
-**XAMPP for Windows (development only):** https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2023/07/Installing-sWADAH-for-XAMPP.pdf
+## Installation on Linux: 
+https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing_sWADAH_docversion_20220815.pdf
+
+## Installation XAMPP for Windows (development only): 
+https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2023/07/Installing-sWADAH-for-XAMPP.pdf
 
 ## Upgrading:
 https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating_sWADAH_docversion_20220815.pdf
 
+# Configuration File
 ## Understanding config.default.php
 config.default.php is the default configuration file for sWADAH. Please do not alter any of the default values. Make a copy of it and rename it to config.user.php (see section below this)
 As of sWADAH 2021X and all future version, config.default.php contains comprehensive instructions and documentations on how each settings works.
