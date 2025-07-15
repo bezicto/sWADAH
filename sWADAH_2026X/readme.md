@@ -1,4 +1,4 @@
-# sWADAH 2026 requires:
+# sWADAH 2026X requires:
 PHP 8.3
 
 ## Installation/Upgrading Notes
