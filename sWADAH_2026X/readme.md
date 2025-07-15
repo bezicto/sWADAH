@@ -13,5 +13,5 @@ Coming soon
 **Understanding sWADAH Configurator**
 The sWADAH Configurator offers a new and simplified way to configure sWADAH, allowing you to tailor it to your specific needs with ease.
 
-**Integration with EZproxy**
+**Integration with EZproxy:**
 Coming soon
