@@ -1,5 +1,6 @@
 # sWADAH 2026X requires:
-PHP 8.3.x, 8.4.x
+
+PHP 8.4.x
 
 ## Installation/Upgrading Notes
 
@@ -10,8 +11,10 @@ Coming soon
 Coming soon
 
 ## Configuration File
+
 **Understanding sWADAH Configurator**
 The sWADAH Configurator offers a new and simplified way to configure sWADAH, allowing you to tailor it to your specific needs with ease.
 
 **Integration with EZproxy:**
 Coming soon
+
