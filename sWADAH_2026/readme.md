@@ -9,7 +9,7 @@ End of support: 1 December 2032
 ## Installation/Upgrading Notes
 
 **Installation:**
-Coming soon
+Get answer on installation using sWADAH 2026 Bot on ChatGPT: https://chatgpt.com/g/g-687d981aba1081918f7eb31c2c05178a-swadah-2026-bot
 
 **Upgrading:**
 Coming soon
