@@ -4,6 +4,8 @@ PHP 8.4.x
 
 Current Version: 2026X
 
+End of support: 1 December 2031
+
 ## Installation/Upgrading Notes
 
 **Installation:**
