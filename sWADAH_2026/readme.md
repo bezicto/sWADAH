@@ -9,7 +9,7 @@ End of support: 1 December 2032
 ## Installation/Upgrading Notes
 
 **Installation:**
-1. Download sWADAH_2026X_LTS_files_install.zip and sWADAH_2026X_LTS_database_install.sql.zip
+1. Download sWADAH_2026X_LTS_files_install.zip and sWADAH_2026X_LTS_database_install.sql.zip (Both will be available on 1st August 2025)
 
 2. Get answer or guidance on installation using sWADAH 2026 Bot on ChatGPT: https://chatgpt.com/g/g-687d981aba1081918f7eb31c2c05178a-swadah-2026-bot
 
