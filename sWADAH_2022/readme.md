@@ -4,7 +4,8 @@ PHP 7.4-8.0 (not tested PHP 8.1>)
 
 Current Version: 2022Y R6
 
-End of support: 1 December 2027
+End of support: 1 January 2026 
+
 
 
 ## Installation
