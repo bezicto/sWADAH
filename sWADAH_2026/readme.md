@@ -1,6 +1,8 @@
 # sWADAH 2026 requires:
 
-PHP 8.4.x, MariaDB 10.4 or above, Composer
+Recommended requirements: PHP 8.4.10, MariaDB 11.8.2, Composer 2.8.10
+
+Minimum requirements: PHP 8.3.23 or higher, MariaDB 10.6 or higher, Composer 2.8.9
 
 Current Version: 2026X
 
@@ -16,7 +18,7 @@ End of support: 1 December 2032
 
 
 **Upgrading:**
-Coming soon
+Coming soon in October 2025
 
 ## Configuration File
 
