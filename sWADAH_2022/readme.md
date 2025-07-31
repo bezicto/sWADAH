@@ -11,13 +11,13 @@ End of support: 1 January 2026
 ## Installation
 
 **Installation on Linux:**
-https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing\_sWADAH\_docversion\_20220815.pdf
+https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing_sWADAH_docversion_20220815.pdf
 
 **Installation XAMPP for Windows (development only):**
 https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2023/07/Installing-sWADAH-for-XAMPP.pdf
 
 **Upgrading:**
-https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating\_sWADAH\_docversion\_20220815.pdf
+https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating_sWADAH_docversion_20220815.pdf
 
 ## Configuration File
 
@@ -30,5 +30,5 @@ You may create config.user.php that will exist alongside with config.default.php
 You may assign your own values (all attributes and initial values can be refer back in config.default.php) so that when you are upgrading sWADAH, your configuration will remain. If you do not have this file, you have to start over. So the existence of config.user.php is to facilitate easy upgrading if ever config.default.php will change in the future releases. All values assigned in config.user.php will overwrite the one in config.default.php
 
 **Integration with EZproxy**
-Tutorial: https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2024/06/sWADAH-%E2%80%93-Ezproxy-Standalone-Integration-Tutorial.pdf
+Tutorial: https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2024/06/sWADAH-–-Ezproxy-Standalone-Integration-Tutorial.pdf
 
