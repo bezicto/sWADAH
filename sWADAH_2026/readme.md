@@ -2,13 +2,14 @@
 
 Recommended requirements: PHP 8.4, MariaDB 11.8, Composer 2.8
 
-Minimum requirements: PHP 8.3 or higher, MariaDB 10.6 or higher, Composer 2.8
+Minimum requirements: PHP 8.3 or higher, MariaDB 10.7 or higher, Composer 2.8
 
 Current Version: 2026X
 
 End of support: 1 December 2032
 
 ## What's new
+
 1. List composer - generate custom dynamic listing based on predefined search term
 2. Temporary access link - generate temporary link for an item to access full text for intended viewer
 3. Loginless access - give access per ip address/range to view full text document without login
@@ -34,9 +35,10 @@ Coming soon in October 2025.
 ## Configuration File
 
 **Understanding sWADAH Configurator**
-The sWADAH Configurator offers a new and simplified way to configure sWADAH, allowing you to tailor it to your specific needs with ease. 
+The sWADAH Configurator offers a new and simplified way to configure sWADAH, allowing you to tailor it to your specific needs with ease.
 
 Use sWADAH 2026 Bot using above link to ask questions regarding all settings in sWADAH Configurator (knowledge will be added in September 2025).
 
 **Integration with EZproxy:**
 Coming soon in October 2025.
+
