@@ -11,16 +11,16 @@ End of support: 1 January 2026
 ## Installation
 
 **Installation on Linux:**
-<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing\_sWADAH\_docversion\_20220815.pdf>
+`https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing\_sWADAH\_docversion\_20220815.pdf`
 
 **Installation on Linux (Youtube -Bahasa Malaysia):**
-<https://www.youtube.com/watch?v=kZS1ODa0Yyk>
+`https://www.youtube.com/watch?v=kZS1ODa0Yyk`
 
 **Installation XAMPP for Windows (development only):**
-<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2023/07/Installing-sWADAH-for-XAMPP.pdf>
+`https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2023/07/Installing-sWADAH-for-XAMPP.pdf`
 
 **Upgrading:**
-<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating\_sWADAH\_docversion\_20220815.pdf>
+`https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating\_sWADAH\_docversion\_20220815.pdf`
 
 
 
@@ -29,13 +29,13 @@ End of support: 1 January 2026
 ## Video Workshop (in Bahasa Malaysia)
 
 **Episod 1: Install**
-<https://www.youtube.com/watch?v=m-JgLJ1g6-g>
+`https://www.youtube.com/watch?v=m-JgLJ1g6-g`
 
 **Episod 2: Config**
-<https://www.youtube.com/watch?v=BslTEsjo1P4>
+`https://www.youtube.com/watch?v=BslTEsjo1P4`
 
 **Episod 3: Backup/Restore/Update**
-<https://www.youtube.com/watch?v=gCLA6MtaqCs>
+`https://www.youtube.com/watch?v=gCLA6MtaqCs`
 
 
 
@@ -50,11 +50,11 @@ You may create config.user.php that will exist alongside with config.default.php
 You may assign your own values (all attributes and initial values can be refer back in config.default.php) so that when you are upgrading sWADAH, your configuration will remain. If you do not have this file, you have to start over. So the existence of config.user.php is to facilitate easy upgrading if ever config.default.php will change in the future releases. All values assigned in config.user.php will overwrite the one in config.default.php
 
 **Configuration: config.php and config.user.php (Youtube -Bahasa Malaysia)**
-<https://www.youtube.com/watch?v=WHa\_mSRnkUU>
+`https://www.youtube.com/watch?v=WHa\_mSRnkUU`
 
 
 
 ## Integration with EZproxy
 
-Tutorial: <https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2024/06/sWADAH-–-Ezproxy-Standalone-Integration-Tutorial.pdf>
+Tutorial: `https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2024/06/sWADAH-–-Ezproxy-Standalone-Integration-Tutorial.pdf`
 
