@@ -22,7 +22,7 @@ End of support: 1 December 2032
 10. New guest user interface with widgets
 11. Bug fixes and performance improvements
 
-Technology Update Video: <https://www.youtube.com/watch?v=GVrmnX8Erg4>
+Technology Update Video (Bahasa Malaysia): <https://www.youtube.com/watch?v=GVrmnX8Erg4>
 
 Technology Update Slides: <https://ezpustaka.upsi.edu.my/dwl/sWADAH_2026_Intro.pdf>
 
