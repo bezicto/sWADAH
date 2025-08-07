@@ -41,4 +41,4 @@ Coming soon in October 2025.
 **Understanding sWADAH Configurator**
 The sWADAH Configurator offers a new and simplified way to configure sWADAH, allowing you to tailor it to your specific needs with ease.
 
-Use sWADAH 2026 Bot using above link to ask questions regarding all settings in sWADAH Configurator (knowledge will be added in September 2025).
+Use sWADAH 2026 Bot using above link to ask questions regarding all settings in sWADAH Configurator (knowledge will be added in November 2025).
