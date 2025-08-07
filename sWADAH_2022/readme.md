@@ -11,7 +11,7 @@ End of support: 1 January 2026
 ## Installation
 
 **Installation on Linux:**
-<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing\_sWADAH\_docversion\_20220815.pdf>
+<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Installing-sWADAH-docversion-20220815.pdf>
 
 **Installation on Linux (Youtube -Bahasa Malaysia):**
 <https://www.youtube.com/watch?v=kZS1ODa0Yyk>
@@ -20,7 +20,7 @@ End of support: 1 January 2026
 <https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2023/07/Installing-sWADAH-for-XAMPP.pdf>
 
 **Upgrading:**
-<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating\_sWADAH\_docversion\_20220815.pdf>
+<https://ezpustaka.upsi.edu.my/i/wp-content/uploads/2022/08/Updating-sWADAH-docversion-20220815.pdf>
 
 
 
