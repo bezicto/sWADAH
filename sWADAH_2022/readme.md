@@ -1,6 +1,6 @@
 # sWADAH 2022 requires:
 
-PHP 7.4-8.0 (not tested PHP 8.1>)
+PHP 7.4-8.2 (not tested PHP 8.3>)
 
 Current Version: 2022Y R6 --Please do not download this version. Download current version (2026 LTS) available in this repository.
 
