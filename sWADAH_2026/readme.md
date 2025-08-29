@@ -34,7 +34,9 @@ Technology Update Slides: <https://ezpustaka.upsi.edu.my/dwl/sWADAH_2026_Intro.p
 2. Get answer or guidance on installation using sWADAH 2026 Bot on ChatGPT: https://chatgpt.com/g/g-687d981aba1081918f7eb31c2c05178a-swadah-2026-bot
 
 **Upgrading:**
-Coming soon in October 2025.
+1. Get answer or guidance on upgrading from sWADAH 2022Y to sWADAH 2026 LTS using sWADAH 2026 Bot on ChatGPT: https://chatgpt.com/g/g-687d981aba1081918f7eb31c2c05178a-swadah-2026-bot
+2. If you upgrading from any other interim version higher than 2022Y (such as 2023A) please contact us.
+3. Upgrading from lower than 2022Y is not supported using the sWADAH 2026 Bot.
 
 ## Configuration File
 
