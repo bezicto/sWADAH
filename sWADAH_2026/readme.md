@@ -44,4 +44,4 @@ Technology Update Slides: <https://ezpustaka.upsi.edu.my/dwl/sWADAH_2026_Intro.p
 **Understanding sWADAH Configurator**
 The sWADAH Configurator offers a new and simplified way to configure sWADAH, allowing you to tailor it to your specific needs with ease.
 
-Use sWADAH 2026 Bot using above link to ask questions regarding all settings in sWADAH Configurator (knowledge will be added in November 2025).
+Use sWADAH 2026 Bot using above link to ask questions regarding all settings in sWADAH Configurator.
