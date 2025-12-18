@@ -63,6 +63,8 @@ Developed using **PHP**, **HTML5**, **JavaScript**, and **MariaDB**, sWADAH's co
 
 Click on the version number in the main repository (e.g., sWADAH\_2026), then follow the instructions to install, upgrade, and configure that selected version. PDF guides are available for each task.
 
+* Or you can book e-books created by the developer at this website: https://kasyrani.wordpress.com/e-buku/
+
 ## Contact Us
 
 For help or more information regarding sWADAH installation, contact:
