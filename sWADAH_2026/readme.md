@@ -6,7 +6,7 @@ Minimum requirements: PHP 8.3 or higher, MariaDB 10.7 or higher, Composer 2.8
 
 Caution on PHP 8.5.x: Do not work with PHP 8.5.1 (please update to PHP 8.5.2 or above and run composer update to update components)
 
-Current Version: 2026X Release2
+Current Version: 2026X Release3
 
 End of support: 1 December 2032
 
