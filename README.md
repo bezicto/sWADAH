@@ -18,7 +18,7 @@ Developed using **PHP**, **HTML5**, **JavaScript**, and **MariaDB**, sWADAH's co
 
 **Main Ingredients:**
 
-* PHP7/8
+* PHP8
 * HTML
 * CSS
 * JavaScript
@@ -63,7 +63,7 @@ Developed using **PHP**, **HTML5**, **JavaScript**, and **MariaDB**, sWADAH's co
 
 Click on the version number in the main repository (e.g., sWADAH\_2026), then follow the instructions to install, upgrade, and configure that selected version. PDF guides are available for each task.
 
-* Or you can buy e-books created by the developer at this website: https://kasyrani.wordpress.com/e-buku/
+* Or you can buy e-books created by the developer at this website: https://kasyrani.wordpress.com/e-buku/ and get answer from sWADAH Bot at https://chatgpt.com/g/g-687d981aba1081918f7eb31c2c05178a-swadah-2026-bot
 
 ## Contact Us
 
